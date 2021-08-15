@@ -7,8 +7,6 @@ function y  = randlap(mu, sigma)
 %   Default mu = 0, sigma = 1. 
 %   For more information, refer to
 %   http://en.wikipedia.org./wiki/Laplace_distribution
-%   Author  : Elvis Chen (bee33@sjtu.edu.cn)
-%   Date    : 01/19/07
 
 % Generate Laplacian noise
 u = rand(1, 1)-0.5;
