@@ -18,5 +18,5 @@ at Early Stage Using Data Mining Techniques. In: Gupta M., Konar D., Bhattachary
 Biswas S. (eds) Computer Vision and Machine Intelligence in Medical Image Analysis. Advances in
 Intelligent Systems and Computing, vol 992. Springer, Singapore.
 https://doi.org/10.1007/978-981-13-8798-2_12
-### Report
-The report is under review and will be available soon.
+### Article
+The complete analysis is done on [Towards data science](https://towardsdatascience.com/differential-privacy-and-k-anonymity-for-machine-learning-fbb416f32b6) .
